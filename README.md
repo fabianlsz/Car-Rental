@@ -70,6 +70,6 @@ Contributions are welcome!
 
 ## Contact
 
-For questions or suggestions, open an issue on GitHub or contact the project owner.
+For questions or suggestions, open an issue on GitHub or contact the project owner (me).
 
 ```
